@@ -1,25 +1,50 @@
-# Student Management System
+# Student Management System 🎓
 
 A beginner-friendly Student Management System built using C++.
 
 ## 📌 About
 
-This project is created as part of my learning journey in C++ programming.
+This is a beginner-level C++ project created as part of my learning journey in programming and problem solving.
 
-## 🚀 Features
+The current version allows the user to enter and display basic student information.
 
-- Add student details
+## 🚀 Current Features
+
+- Enter student name
+- Enter roll number
+- Enter marks
 - Display student details
-- Search student
-- Update student information
-- Delete student information
 
 ## 🛠️ Technologies Used
 
 - C++
-- Data Structures & Algorithms
+- Basic Programming Concepts
+- Input/Output
 
-## 🎓 Author
+## 📚 Learning Goals
 
-Pawan Kumar
-BCA 2nd Year Student
+Through this project, I am practicing:
+
+- C++ fundamentals
+- Variables and data types
+- User input and output
+- Strings
+- Basic program structure
+
+## 🔮 Future Improvements
+
+I plan to add:
+
+- Multiple students
+- Search student
+- Update student information
+- Delete student information
+- Data Structures
+- File handling
+
+## 👨‍💻 Author
+
+**Pawan Kumar**
+
+BCA 2nd Year Student  
+Aspiring Software Developer
